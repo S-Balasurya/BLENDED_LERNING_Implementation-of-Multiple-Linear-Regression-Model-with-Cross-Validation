@@ -77,6 +77,7 @@ plt.show()
 ## Output:
 
 Actual vs Predicted Prices
+
 <img width="694" height="545" alt="image" src="https://github.com/user-attachments/assets/c7d98e32-43f4-43ec-a03b-30ffe892271a" />
 
 ## Result:
