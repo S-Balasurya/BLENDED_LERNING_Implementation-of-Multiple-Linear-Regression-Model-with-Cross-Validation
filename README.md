@@ -76,7 +76,25 @@ plt.show()
 
 ## Output:
 
-Actual vs Predicted Prices
+Name: Balasurya S
+
+Reg. No: 25000944
+
+=== Cross-Validation ===
+
+Fold R^2 scores: ['0.6238', '0.6316', '0.3132', '0.3643', '-0.4944']
+
+Average R^2: 0.2877
+
+=== Test Set Performance ===
+
+MSE: 8482008.48
+
+R^2: 0.8926
+
+MAE: 2089.38
+
+                                                      Actual vs Predicted Prices
 
 <img width="694" height="545" alt="image" src="https://github.com/user-attachments/assets/c7d98e32-43f4-43ec-a03b-30ffe892271a" />
 
