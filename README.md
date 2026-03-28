@@ -76,23 +76,12 @@ plt.show()
 
 ## Output:
 
-Name: Balasurya S
+<img width="258" height="85" alt="Screenshot 2026-03-28 135546" src="https://github.com/user-attachments/assets/181554ba-af8d-41c0-9a10-e5ed6cd091e4" />
 
-Reg. No: 25000944
+<img width="689" height="175" alt="Screenshot 2026-03-28 135549" src="https://github.com/user-attachments/assets/9aeeda47-a053-4cf6-90dd-1d05e35c4022" />
 
-=== Cross-Validation ===
+<img width="303" height="130" alt="Screenshot 2026-03-28 135552" src="https://github.com/user-attachments/assets/20d61b97-f2ae-40ba-ad88-a54e9f3d0d7c" />
 
-Fold R^2 scores: ['0.6238', '0.6316', '0.3132', '0.3643', '-0.4944']
-
-Average R^2: 0.2877
-
-=== Test Set Performance ===
-
-MSE: 8482008.48
-
-R^2: 0.8926
-
-MAE: 2089.38
 
                                                       Actual vs Predicted Prices
 
